@@ -2,7 +2,7 @@
 
 
 
-## I'm a Full Stack Developer
+## Full Stack Developer
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
